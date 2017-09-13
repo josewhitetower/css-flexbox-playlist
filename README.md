@@ -1,5 +1,13 @@
 # CSS Flexbox-playlist log
 
+### Day 16: September 13, 2017    
+
+**Today's Progress**:   
+1. Today I learnt about Flex shrink.  
+
+**Thoughts**:     
+1. `flex-shrink:[value]` used to shrink elements into available space in relation to others
+
 ### Day 15: September 12, 2017    
 
 **Today's Progress**:   
