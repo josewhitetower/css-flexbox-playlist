@@ -1,12 +1,18 @@
 # CSS Flexbox-playlist log
+### Day 17: September 15, 2017    
 
+**Today's Progress**:   
+1. Today I learnt about Flex wrap.  
+
+**Thoughts**:     
+1. The container must have the property `flex-flow:wrap` it makes it responsive.    
 ### Day 16: September 13, 2017    
 
 **Today's Progress**:   
 1. Today I learnt about Flex shrink.  
 
 **Thoughts**:     
-1. `flex-shrink:[value]` used to shrink elements into available space in relation to others
+1. `flex-shrink:[value]` used to shrink elements into available space in relation to others.  
 
 ### Day 15: September 12, 2017    
 
