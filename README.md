@@ -3,6 +3,7 @@
 
 **Today's Progress**:   
 1. Today I learnt about Flex wrap.  
+2. Create a menu with the property `justify-content`.  
 
 **Thoughts**:     
 1. The container must have the property `flex-flow:wrap` it makes it responsive.    
