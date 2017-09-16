@@ -1,4 +1,11 @@
 # CSS Flexbox-playlist log
+### Day 18: September 16, 2017    
+
+**Today's Progress**:   
+1. Today I learnt about Nested Menus with flexbox.   
+
+**Thoughts**:     
+1. 
 ### Day 17: September 15, 2017    
 
 **Today's Progress**:   
