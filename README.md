@@ -8,6 +8,7 @@
 1. `flex-flow` by default is `row`. 
 2. `justify-content` only works in the main axis.   
 3. `align-items` only works in the cross axis.  
+4. `box-sizing:border-box` is used to tell the browser what the sizing properties (width and height) should include. `content-box` by default.  
 ### Day 18: September 16, 2017    
 
 **Today's Progress**:   
