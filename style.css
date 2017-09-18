@@ -9,43 +9,29 @@ body {
 
 .wrapper {
     width: 100%;
-    max-width: 960px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
-
-/* menu basis style */
-
-nav {
-    background: #333;
+.flex-container {
+    display: flex;
+    background: #fff;
+    flex-wrap: wrap;
 }
 
-nav ul {
-    list-style-type: none;
-    padding: 0;
+.box {
+    height: 100px;
+    flex: 0 0 100px;
 }
 
-nav a {
-    text-decoration: none;
-    color: #fff;
-    display: block;
-    padding: 10px;
-    text-align: center
+.one {
+    background: red;
 }
 
-nav a:hover {
-    background-color: #555;
+.two {
+    background: blue;
 }
 
-@media screen and (min-width: 768px) {
-    nav ul {
-        display: flex;
-        justify-content: flex-start;
-    }
-    nav li {
-        flex: 1 1 0;
-    }
+.three {
+    background: green;
 }
-
-
-/* flex styles */
